@@ -107,6 +107,7 @@ Yolov5 has been shown to improve the speed and accuracy of detection, and theref
 
 * `YOLO5 Model` [yolov5](https://github.com/ultralytics/yolov5.git)
 ****
+<br />
 ###References
 [1]J. Huang et al., "Speed/accuracy trade-offs for modern convolutional object detectors", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/1611.10012. [Accessed: 09- Feb- 2022].<br />
 [2]A. Bochkovskiy, C. Wang and H. Liao, "YOLOv4: Optimal Speed and Accuracy of Object Detection", arXiv.org, 2022. [Online]. Available: https://arxiv.org/abs/2004.10934. [Accessed: 09- Feb- 2022].<br />
