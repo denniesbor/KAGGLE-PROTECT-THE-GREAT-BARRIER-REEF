@@ -1,5 +1,0 @@
-classes = 1
-train = /kaggle/working/YOLOV4/DATA/train.txt
-valid = /kaggle/working/YOLOV4/DATA/test.txt
-names = /kaggle/working/YOLOV4/DATA/obj.names
-backup = /kaggle/working/YOLOV4/darknet/backup
