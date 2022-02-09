@@ -5,7 +5,7 @@ This repo hosts notebooks, and helper shell and python files used in data prepro
 ### Faster RCNN Resources
 
 * `Colab Notebook` [colab](https://colab.research.google.com/drive/1-N2peQoX7WC85rFXgodoLbvduX86jY4s#scrollTo=Yo_jRkAhT2Xg)
-* `object_detector` [model zoo](git clone https://github.com/tensorflow/models.git)
+* `object_detector` [model zoo](https://github.com/tensorflow/models.git)
 * `model` [FRCNN](http://download.tensorflow.org/models/object_detection/tf2/20200711/faster_rcnn_inception_resnet_v2_640x640_coco17_tpu-8.tar.gz)
 ****
 ### YOLOv4 Resources
