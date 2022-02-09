@@ -1,4 +1,4 @@
-## Safe the Great Barrier Reef Kaggle MVPs
+## Help the Great Barrier Reef Kaggle MVPs
 
 This repo hosts notebooks, and helper shell and python files used in data preprocessing and training of `RCNN`, `YOLOv5`, and `YOLOv4` object detection neural net.
 ****
