@@ -1,0 +1,5 @@
+classes = 1
+train = /content/drive/MyDrive/yolov4_kaggle/DATA/train.txt
+valid = /content/drive/MyDrive/yolov4_kaggle/DATA/test.txt
+names = /content/drive/MyDrive/yolov4_kaggle/DATA/obj.names
+backup = /content/drive/MyDrive/yolov4_kaggle/darknet/backup

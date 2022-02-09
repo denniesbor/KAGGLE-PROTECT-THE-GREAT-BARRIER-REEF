@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOV5/DATA/TRAIN/images
+val: /content/drive/MyDrive/YOLOV5/DATA/TEST/images
+
+nc: 1
+names: ['starfish']
